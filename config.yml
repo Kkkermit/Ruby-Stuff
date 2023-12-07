@@ -1,0 +1,15 @@
+# config.yml
+
+development:
+  database:
+    host: localhost
+    username: dev_user
+    password: dev_password
+    dbname: dev_database
+
+production:
+  database:
+    host: production_db_host
+    username: prod_user
+    password: prod_password
+    dbname: prod_database
