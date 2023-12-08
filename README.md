@@ -35,3 +35,7 @@ prerequisites or dependencies required to run your Ruby code:
 ```bash
 ruby your_script.rb
 
+
+------------------------------------------------------------------------------
+/ `And yes i know this code is a complete mess, it's just me messing around` /
+------------------------------------------------------------------------------
